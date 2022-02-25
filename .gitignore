@@ -1,4 +1,10 @@
 # OSX
+
+# dependencies
+/node_modules
+/BackUp
+/.pnp
+
 #
 .DS_Store
 
